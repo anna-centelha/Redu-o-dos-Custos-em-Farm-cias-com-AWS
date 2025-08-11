@@ -1,7 +1,7 @@
 # SOLUÇÃO AWS PARA REDUÇÃO DE CUSTOS OPERACIONAIS EM FARMÁCIAS
 
-**Data:** 11 de Agosto de 2025
-**Empresa:** Abstergo Industries
+**Data:** 11 de Agosto de 2025··
+**Empresa:** Abstergo Industries··
 **Responsável:** Anna Carolina Centelha
 
 ## Introdução
@@ -47,7 +47,7 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 * [Documentação do Amazon S3 Intelligent-Tiering](https://aws.amazon.com/pt/s3/storage-classes/intelligent-tiering/)
 * [Documentação do Amazon Aurora Serverless](https://aws.amazon.com/pt/rds/aurora/serverless/)
 
-## Assinatura do Responsável pelo Projeto
-
 ---
+
+## Assinatura do Responsável pelo Projeto
 **Anna Carolina Centelha**
