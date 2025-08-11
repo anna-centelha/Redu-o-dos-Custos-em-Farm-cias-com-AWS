@@ -1,7 +1,9 @@
 # SOLUÇÃO AWS PARA REDUÇÃO DE CUSTOS OPERACIONAIS EM FARMÁCIAS
 
-**Data:** 11 de Agosto de 2025··
-**Empresa:** Abstergo Industries··
+**Data:** 11 de Agosto de 2025
+
+**Empresa:** Abstergo Industries
+
 **Responsável:** Anna Carolina Centelha
 
 ## Introdução
